@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/future-friends/static/css/main.9df0a186.css",
+    "main.js": "/future-friends/static/js/main.00809400.js",
+    "static/js/787.e9bd5823.chunk.js": "/future-friends/static/js/787.e9bd5823.chunk.js",
+    "static/media/SEGA.woff": "/future-friends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/future-friends/index.html",
+    "main.9df0a186.css.map": "/future-friends/static/css/main.9df0a186.css.map",
+    "main.00809400.js.map": "/future-friends/static/js/main.00809400.js.map",
+    "787.e9bd5823.chunk.js.map": "/future-friends/static/js/787.e9bd5823.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9df0a186.css",
+    "static/js/main.00809400.js"
+  ]
+}
